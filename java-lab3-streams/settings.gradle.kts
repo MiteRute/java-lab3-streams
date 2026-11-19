@@ -1,1 +1,0 @@
-rootProject.name = "java-lab3-streams"
